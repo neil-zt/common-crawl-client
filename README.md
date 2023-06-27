@@ -1,4 +1,4 @@
-# 使用 Common Crawl 的網頁資料｜Access Web Archive Date with Common Crawl Client
+# 使用 Common Crawl 的網頁資料｜Access Web Archive Data with Common Crawl Client
 
 > 此（neil-zt/iasl-fb-similarity）為一個公開的 GitHub repository，IASL 如果有人需要使用可以直接複製，有問題請聯絡 neil.lu@duke.edu。
   
