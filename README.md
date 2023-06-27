@@ -3,7 +3,7 @@
 > 此（[neil-zt/common-crawl-client](https://github.com/neil-zt/common-crawl-client)）為一個公開的 GitHub repository，IASL 如果有人需要使用可以直接複製，有問題請聯絡 neil.lu@duke.edu。
   
 > For English instructions, go to `driver.ipynb`.   
-> 本 README 檔案內容可在 `driver.ipynb` 中執行。
+> 本 README 檔案內容可在 `driver-zh.ipynb` 中執行。
 
 ## 環境建置
 ### 安裝 Dependencies
